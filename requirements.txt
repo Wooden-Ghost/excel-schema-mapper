@@ -1,0 +1,11 @@
+所需第三方库 / Required third-party libraries
+
+运行本程序前，需要先安装以下第三方库：
+Before running this program, please install the following third-party libraries:
+
+- PySide6
+- pandas
+- openpyxl
+
+安装命令 / Installation command:
+pip install PySide6 pandas openpyxl
