@@ -75,7 +75,7 @@ Excel Schema Mapper｜多来源表格自动识别与映射处理工具
 
 ![处理时面板](assets/处理面板.png)
 
-![处理后](assets/A-处理后.png)
+![处理后](assets/A-处理后222.png)
 
 ---
 
