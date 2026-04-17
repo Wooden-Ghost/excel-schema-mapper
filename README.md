@@ -6,7 +6,8 @@ Excel Schema Mapper｜多来源表格自动识别与映射处理工具
 
 > A desktop tool for automatically detecting, mapping, and standardizing tabular data from multiple Excel/CSV sources.
 
-
+![程序主界面](assets/程序主界面.png)
+![相关设置界面](assets/相关设置界面.png)
 
 ## 项目简介
 
